@@ -2,7 +2,7 @@
 
 main()
 {
-	int a=0;
+    int a = 0;
     printf("cifra dlya zaversheniya cikla = 7\n ");
     printf("vvedite cifru:\n ");
     while (a != 7)
